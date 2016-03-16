@@ -1,2 +1,4 @@
 # hello-world
-Doing the tutorial from Github
+Hi, everyone
+
+My name is Luis, I like to code and play basketball.
